@@ -17,6 +17,8 @@ namespace GitHub
             int x = 45, y = 5, z;
             z = x + y;
             Console.WriteLine("Add is : "+ z);
+
+            Console.WriteLine(z);
         }
     }
 }
